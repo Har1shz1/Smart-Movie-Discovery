@@ -10,3 +10,7 @@ The primary objective of this project is to enhance the recommendation system fo
 • Evaluate the performance of the enhanced recommendation system through comprehensive testing and analysis, including user feedback and engagement metrics.
 
 • Implement iterative improvements and renements to the recommendation system based on the evaluation results, ensuring continuous enhancement of user satisfaction and engagement on the Amazon Prime platform.
+# Web Interface Integration
+• The Flask application renders the recommendation results dynamically within the web interface, providing users with an interactive and seamless experience.
+• Users can input movie titles or interact with the interface to receive personalized recommendations based on the implemented recommendation system.
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/0bb19a62-29e8-474e-a396-2d301d6b1d0c">
