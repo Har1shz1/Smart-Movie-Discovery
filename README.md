@@ -15,7 +15,8 @@ The primary objective of this project is to enhance the recommendation system fo
 
 • Users can input movie titles or interact with the interface to receive personalized recommendations based on the implemented recommendation system.
 
-# <img width="422" alt="image" src="https://github.com/user-attachments/assets/0bb19a62-29e8-474e-a396-2d301d6b1d0c">
+# <img width="418" alt="image" src="https://github.com/user-attachments/assets/bdfbf619-049f-44c2-aeac-3e1dd1011012">
+
 
 <img width="428" alt="image" src="https://github.com/user-attachments/assets/7505b9a7-053a-4c43-a923-faf4e8af5d21">
 
