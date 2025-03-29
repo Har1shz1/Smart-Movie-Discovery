@@ -3,6 +3,7 @@ The primary objective of this project is to enhance the recommendation system fo
 # Features
 • Develop an enhanced recommendation system for Amazon Prime that utilizes advanced machine learning algorithms and data analysis techniques.
 
+
 • Improve the personalization of content recommendations by leveraging a wide range of user data, including search history, ratings, and browsing behavior.
 
 • Enhance the efciency and accuracy of the recommendation algorithms to provide timely and relevant content suggestions to users.
